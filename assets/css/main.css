@@ -2262,6 +2262,11 @@ input, select, textarea {
 			#main > section.four {
 				background-color: #e8edec;
 			}
+			
+			#main > section.p1 {
+				background-color: #81918E;
+				background-image: url("../../images/p1.jpg");
+			}
 
 /* Wide */
 
