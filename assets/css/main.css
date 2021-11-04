@@ -2263,11 +2263,7 @@ input, select, textarea {
 				background-color: #e8edec;
 			}
 			
-			#main > section.p1 {
-				background-color: #81918E;
-				background-image: url("../../images/p1.jpg");
-			}
-
+		
 /* Wide */
 
 	@media screen and (min-width: 961px) and (max-width: 1880px) {
