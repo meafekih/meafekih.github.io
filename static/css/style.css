@@ -419,6 +419,35 @@ section {
 /*--------------------------------------------------------------
 # Akills
 --------------------------------------------------------------*/
+
+.rating {
+  display: flex;
+  align-items: center;
+}
+
+.quality {
+  margin-right: 10px;
+}
+
+.checked {
+  color: orange;
+}
+
+
+
+/* Add more styling as needed */
+
+
+/* Add more styling as needed */
+
+
+/* Add more styling as needed */
+
+/*--------------------------------------------------------------
+# Akills
+--------------------------------------------------------------*/
+
+
 .skills .progress {
   height: 60px;
   display: block;
